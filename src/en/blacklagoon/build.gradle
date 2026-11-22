@@ -1,7 +1,0 @@
-ext {
-    extName = 'Read Black Lagoon'
-    extClass = '.BlackLagoon'
-    extVersionCode = 1
-}
-
-apply from: "$rootDir/common.gradle"
